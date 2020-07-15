@@ -9,8 +9,8 @@ this is Dom, Technical Specialist @ shopware AG
 
 ### Social
 
-- 🐦 [@elkmod](https://twitter.com/elkmod)
-- 💼 [Linkedin](https://www.linkedin.com/in/dominicklein)
+- 🐦  [@elkmod](https://twitter.com/elkmod)
+- 💼  [Linkedin](https://www.linkedin.com/in/dominicklein)
 
 <!--
 **elkmod/elkmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
