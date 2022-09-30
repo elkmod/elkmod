@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-this is Dom, Technical Specialist @ shopware AG
+this is Dom, I do APIs and Product Management @ shopware AG
 
 ### Currently working on 
 
