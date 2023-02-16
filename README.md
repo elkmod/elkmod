@@ -5,12 +5,14 @@ this is Dom, I do APIs and Product Management @ shopware AG
 ### Currently working on 
 
 - [Shopware 6](https://github.com/shopware/platform) - E-Commerce platfrom built upon Symfony
+- [Shopware Frontends](https://github.com/shopware/frontends) - Vue.js Framework to build custom storefronts with Shopware
 - [Shopware PWA](https://github.com/DivanteLtd/shopware-pwa) - E-Commerce storefront built in Vue.js
 
 ### Social
 
 - 🐦  [@elkmod](https://twitter.com/elkmod)
 - 💼  [Linkedin](https://www.linkedin.com/in/dominicklein)
+- 🌐  [elkmod.dev](https://elkmod.dev)
 
 <!--
 **elkmod/elkmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
