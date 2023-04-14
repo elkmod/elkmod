@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-this is Dom, I do APIs and Product Management @ shopware AG
+this is Dom, I do APIs, Frontend Frameworks and Documentation @ shopware AG
 
 ### Currently working on 
 
 - [Shopware 6](https://github.com/shopware/platform) - E-Commerce platfrom built upon Symfony
 - [Shopware Frontends](https://github.com/shopware/frontends) - Vue.js Framework to build custom storefronts with Shopware
-- [Shopware PWA](https://github.com/DivanteLtd/shopware-pwa) - E-Commerce storefront built in Vue.js
+- [Shopware Docs](https://github.com/shopware/docs) - Shopware Developer Documentation
 
 ### Social
 
