@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-this is Dom, I do APIs, Frontend Frameworks and Documentation @ shopware AG
+this is Dom. I'm working with the amazing team at Frontstack, building a frontend-first middleware for eCommerce
+
+Previously I did APIs, Frontend Frameworks and Documentation @shopware AG
 
 ### Currently working on 
 
-- [Shopware 6](https://github.com/shopware/platform) - E-Commerce platfrom built upon Symfony
-- [Shopware Frontends](https://github.com/shopware/frontends) - Vue.js Framework to build custom storefronts with Shopware
-- [Shopware Docs](https://github.com/shopware/docs) - Shopware Developer Documentation
+- [frontstack](https://frontstack.dev/)
+- [frontstack Documentation](https://docs.frontstack.dev/)
+- frontstack Studio ✨
+
+### Reach out
+
+If you'd like to talk, leave a message on [LinkedIn](https://www.linkedin.com/in/dominicklein)
 
 ### Social
 
